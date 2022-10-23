@@ -1,0 +1,23 @@
+# N jobs:
+5
+# M tools:
+5
+# K slots:
+2
+
+List of jobs:
+3, 0
+1, 0
+2
+0, 3
+3, 1
+
+Setup costs:
+0, 9, 24, 11, 16
+10, 0, 15, 8, 15
+11, 1, 0, 2, 9
+22, 26, 28, 0, 7
+21, 22, 21, 2, 0
+
+# Name of the instance:
+TI_Ins1_5_5_2
