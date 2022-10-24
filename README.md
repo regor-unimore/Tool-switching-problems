@@ -19,6 +19,6 @@ Content of the input file:
 
 -Given a job j in {1,...,N},  line 8+j specifies the subset of tools to be loaded in the magazine before starting the execution of the job j.
 
--Given a tool u in {1,...,M}, line 10+N+u specifies the setup times required to switch from tool c to all the other tools.
+-Given a tool u in {1,...,M}, line 10+N+u specifies the setup times required to switch from tool u to all the other tools.
 
 -The last line provides the name of the instance.
